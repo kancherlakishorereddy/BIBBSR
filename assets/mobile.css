@@ -1,0 +1,32 @@
+#logo{
+    width: 100px;
+  }
+@media only screen and (max-width: 376px){
+   #logo{
+      width: 65px;
+   }
+   button.navbar-toggler{
+     padding: 2px 6px;
+   }
+   h1{
+     font-size: 1.75rem;
+   }
+   h2{
+     font-size: 1.5rem;
+   }
+   h3{
+     font-size: ;
+   }
+   h4{
+     font-size: 1.25rem;
+   }
+   h5{
+     font-size: 1rem;
+   }
+   a.btn.btn-primary{
+     font-size: 12px;
+   }
+   p{
+       font-size: 0.8rem;
+   }
+}
